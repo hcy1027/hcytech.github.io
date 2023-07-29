@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-45dc2f25","path":"/docs/java/summary.html","title":"api","lang":"en-US","frontmatter":{"title":"api","date":"2020/05/29"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/java/summary.md"}');export{a as data};
