@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as s,a as e,b as a}from"./app-5f2f964c.js";const c={},i=e("h2",{id:"this-is-theme",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#this-is-theme","aria-hidden":"true"},"#"),a(" This is theme.")],-1),n=[i];function o(h,_){return r(),s("div",null,n)}const l=t(c,[["render",o],["__file","LinearStructure.html.vue"]]);export{l as default};
